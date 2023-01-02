@@ -40,4 +40,5 @@ while lives > 0:
         break
 
 if lives == 0:
-    print(f"You have no more lives left... The correct number was {number}")
+    print(f"You have no more lives left... The correct number was {number}..")
+#This code was added on git
